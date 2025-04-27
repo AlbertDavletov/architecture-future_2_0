@@ -1,2 +1,9 @@
-# architecture-future_2_0
-Yandex practicum course: software architect - sprint 11
+# Разбор задачи
+
+- [Задание 1](./Task1/README.md)
+- [Задание 2](./Task2/README.md)
+- [Задание 3](./Task3/README.md)
+
+# Задача
+
+TODO
